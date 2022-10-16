@@ -4,7 +4,7 @@
   "description": "",
   "main": "server.js",
   "type": "module",
-  "scripts": {
+   "scripts": {
     "build": "tsc",
     "prisma:migrate": "prisma migrate dev",
     "prisma:deploy": "prisma migrate deploy",
